@@ -17,3 +17,23 @@
     top: 0;
     width: 100%;
 }
+
+.three {
+	background:#BEC8D4;
+	height: 350px;
+}
+
+.bkg {
+	background:#333c4c;
+	height: 350px;
+}
+
+.most {
+	background:#9F808F;
+	height: 350px;
+}
+
+.low {
+	background:#f44271;
+	height: 350px;
+}
