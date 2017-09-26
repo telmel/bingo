@@ -1,0 +1,19 @@
+#testimonial {
+    background-image: url("testimonial.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+.mask-testimonial {
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, rgba(75, 53, 76, 0.9) 35%, rgba(220, 77, 79, 0.9) 100%) repeat scroll 0 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
